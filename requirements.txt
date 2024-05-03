@@ -1,0 +1,9 @@
+BCEmbedding
+langchain
+langchain_community
+langchain_core=
+bs4 
+pypdf 
+unstructured 
+markdown 
+chromadb
